@@ -1,5 +1,4 @@
-👋 Hi, I’m Irving
-  I’m a software engineer who is passionate about making open-source code that elevates people,
+👋 Hi, I’m Irving, a software engineer who is passionate about making open-source code that elevates people,
 building community, and teaching others who are interested how to write code. 
 - 🌱 I’m currently learning Advanced Multi-Page Applications and how to build RESTful APIs
 - 📫 How to reach me:
