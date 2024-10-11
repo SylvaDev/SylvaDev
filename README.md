@@ -4,6 +4,7 @@ building community, and teaching others who are interested how to write code.
 - 📫 How to reach me:
   - Send me an [Email](irvingcsylva@gmail.com)
   - Find me sharing updates on [LinkedIn](www.linkedin.com/in/irvingsylva)
+  - Check out my work on [CodePen](https://codepen.io/SylvaDev)
 - ⚡ Fun fact: I am lead developer on a FiveM game server
 
 <!---
