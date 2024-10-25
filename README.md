@@ -6,6 +6,8 @@ building community, and teaching others who are interested how to write code.
   - Find me sharing updates on [LinkedIn](www.linkedin.com/in/irvingsylva)
   - Check out my work on [CodePen](https://codepen.io/SylvaDev)
   - Schedule a video call with [Calendly](https://calendly.com/irvingcsylva)
+  - [CodeWithBugzee](https://bugzeedev.wixstudio.io/codewithbugzee)
+    
 - ⚡ Fun fact: I am lead developer on a FiveM game server
 
 <!---
