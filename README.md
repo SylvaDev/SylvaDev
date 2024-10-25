@@ -8,7 +8,7 @@ building community, and teaching others who are interested how to write code.
   - Schedule a video call with [Calendly](https://calendly.com/irvingcsylva)
   - [CodeWithBugzee](https://bugzeedev.wixstudio.io/codewithbugzee)
     
-- ⚡ Fun fact: I am lead developer on a FiveM game server
+- ⚡ Fun fact: I am lead developer on several FiveM game servers
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
