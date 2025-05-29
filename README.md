@@ -9,6 +9,7 @@ building community, and teaching others who are interested how to write code.
   - [CodeWithBugzee](https://bugzeedev.wixstudio.io/codewithbugzee)
     
 - ⚡ Fun fact: I am lead developer on several FiveM game servers
+  as well as Lead Developer at Exovara Labs (An Indie Game Studio)
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
