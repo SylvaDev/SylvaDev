@@ -8,7 +8,7 @@ building community, and teaching others who are interested how to write code.
   - View My [Portfolio](https://irvingsylva.dev)
     
 - ⚡ Fun fact: I am lead developer on several FiveM game servers
-  as well as Lead Developer at Exovara Labs (An Indie Game Studio)
+  as well as Lead Developer at [Exovara Labs](https://exovara-labs.vercel.app/) (An Indie Game Studio)
  
 
 <!---
