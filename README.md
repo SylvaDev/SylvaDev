@@ -8,8 +8,8 @@ building community, and teaching others who are interested how to write code.
   - View My [Portfolio](https://irvingsylva.dev)
   - Check out the website I built for [Tennessee Roleplay](https://tnrp.vercel.app/) a FiveM gaming server
     
-- ⚡ Fun fact: I am lead developer on several FiveM game servers
-  as well as Lead Developer at [Exovara Labs](https://exovara-labs.vercel.app/) (An Indie Game Studio)
+- ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovara-labs.vercel.app/) (An Indie Game Studio)
+      where we are working on our first game.
  
 
 <!---
