@@ -9,8 +9,7 @@ building community, and teaching others who are interested how to write code.
   - Check out the website I built for [Tennessee Roleplay](https://tnrp.vercel.app/) a FiveM gaming server
     
 - ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovara-labs.vercel.app/) (An Indie Game Studio)
-      where we are working on our first game.
- 
+      where I am teaching a small group of friends how to build a pc game in Unreal Engine 5 and Git. 
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
