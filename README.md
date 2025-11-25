@@ -1,6 +1,6 @@
 👋 Hi, I’m Irving, a software engineer who is passionate about making open-source code that elevates people,
 building community, and teaching others who are interested how to write code. 
-- 🌱 I’m currently learning Penetration Testing and Cybersecurity
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me:
   - Send me an [Email](irvingcsylva@gmail.com)
   - Find me sharing updates on [LinkedIn](www.linkedin.com/in/irvingsylva)
