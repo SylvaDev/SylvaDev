@@ -7,9 +7,9 @@ building community, and teaching others who are interested how to write code.
   - Schedule a video call with [Calendly](https://calendly.com/irvingcsylva)
   - Fill out the form in my [Portfolio](https://irvingsylva.dev)
 
-- Check out the website I built for [Tennessee Roleplay](https://tnrp.vercel.app/) a FiveM gaming server
-- ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovara-labs.vercel.app/) (An Indie Game Studio)
-      where I am teaching a small group of friends Git and how to build a pc game in Unreal Engine 5. 
+- Check out the website I built for [Skyline Roleplay](https://skyline-rp.org/) a FiveM gaming server
+- ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovaralabs.com/) A new software development firm 
+where I am building the future of web apps. 
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
