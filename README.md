@@ -8,8 +8,8 @@ building community, and teaching others who are interested how to write code.
   - Fill out the form in my [Portfolio](https://irvingsylva.dev)
 
 - Check out the website I built for [Skyline Roleplay](https://skyline-rp.org/) a FiveM gaming server
-- ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovaralabs.com/) A new software development firm 
-where I am building the future of web apps. 
+- ⚡ Fun fact: I am lead developer at [Exovara Labs](https://exovaralabs.com/) A software development firm 
+where we are connecting businesses with viable customers. 
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
