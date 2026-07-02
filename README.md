@@ -10,7 +10,7 @@ building community, and teaching others who are interested how to write code.
 
 - Check out the website I built for [Skyline Roleplay](https://skyline-rp.org/) a FiveM gaming server
 - ⚡ Fun fact: I am CEO/CTO at [Exovara Labs](https://exovaralabs.com/) A software development firm 
-where we are designing the future of web applications. 
+where we are building Folio - the Goodreads Alternative. 
 
 <!---
 SylvaDev/SylvaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
